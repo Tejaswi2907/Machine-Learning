@@ -1,2 +1,2 @@
 # Machine-Learning
-#This repo has various machine learning algorithms and projects
+This repo has various machine learning algorithms and projects
